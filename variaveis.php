@@ -68,3 +68,30 @@ echo "<br>soma: " . $soma;
 
 // Tema de casa sera fazer a tabuada (6, 7) e mostra na tela.
 
+$numero = 6;
+echo "<br>Tabuada:<br>";
+echo "$numero x 1 = " . $numero *1;
+echo "$numero x 2 = " . $numero *2;
+echo "$numero x 3 = " . $numero *3;
+echo "$numero x 4 = " . $numero *4;
+echo "$numero x 5 = " . $numero *5;
+echo "$numero x 6 = " . $numero *6;
+echo "$numero x 7 = " . $numero *7;
+echo "$numero x 8 = " . $numero *8;
+echo "$numero x 9 = " . $numero *9;
+echo "$numero x 10 = " . $numero *10;
+echo "<br>"
+
+$numero = 7;
+echo "<br>Tabuada:<br>";
+echo "$numero x 1 = " . $numero *1;
+echo "$numero x 2 = " . $numero *2;
+echo "$numero x 3 = " . $numero *3;
+echo "$numero x 4 = " . $numero *4;
+echo "$numero x 5 = " . $numero *5;
+echo "$numero x 6 = " . $numero *6;
+echo "$numero x 7 = " . $numero *7;
+echo "$numero x 8 = " . $numero *8;
+echo "$numero x 9 = " . $numero *9;
+echo "$numero x 10 = " . $numero *10;
+
